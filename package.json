@@ -1,11 +1,12 @@
 {
-  "name": "reseller-manager-template",
+  "name": "open-source-admin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --mode dev",
     "qa": "vite --mode qa",
+    "esimply": "vite --mode esimply",
     "build": "vite build",
     "build:dev-mm-hub": "vite build --mode dev --outDir build",
     "build:sales": "vite build --mode sales --outDir build",

@@ -21,11 +21,11 @@ export const themesConfig = {
         white: "rgb(255, 255, 255)",
       },
       primary: {
-        main: "#0f172a",
+        main: "#001F26",
         contrastText: darkPaletteText.primary,
       },
       secondary: {
-        main: "#eb224d",
+        main: "#DEB665",
         contrastText: darkPaletteText.primary,
       },
       background: {

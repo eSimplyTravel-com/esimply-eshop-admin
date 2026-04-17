@@ -68,7 +68,7 @@ export default function TopNav() {
             <LazyLoadImage
               alt={import.meta.env.VITE_APP_PROJECT_TITLE}
               src={"/logo/logo.png"}
-              className="h-full w-auto object-cover"
+              className="h-[70px] w-auto object-cover"
             />
           </button>
         )}

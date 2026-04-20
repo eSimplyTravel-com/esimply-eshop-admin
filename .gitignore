@@ -27,10 +27,10 @@ dist-ssr
 
 
 # Ignore all files in 'coveragee'
-
+.env
+.env.*
 coverage/*
 .env
 .env.*
 # Negate the 'lcov.info' to include it
 package-lock.json
-!coverage/lcov.info
